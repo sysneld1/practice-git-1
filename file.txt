@@ -1,2 +1,1 @@
-My first line in project
-London is the capital of GB
+Paris is the capitals of France
